@@ -18,9 +18,7 @@
 - 🏢 I’m looking forward to work as a **Full Stack Web Developer**
 - 💬 Ask me about **HTML, CSS,JAVASCRIPT,REACT,C,JAVA,PYTHON**
 - 📧 How to reach me <b>**jsoumyaranjan108@gmail.com**</b>
-- 👨‍💻 Know more about me <b><a href="https://pramodjena.github.io" target="_blank" rel="noopener noreferrer">Portfolio</a></b>
-- 📄 Check out my <b><a href="https://drive.google.com/file/d/1EDuBNw6mgnr1AXjbeOSOoNLNURV4vI3C/view?usp=sharing">Resume</a>
-</b>
+- 👨‍💻
 </b>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
