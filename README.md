@@ -1,6 +1,24 @@
+<!-- Animated GIF Related to Coding -->
+
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0;">
+  <img src="https://media3.giphy.com/media/elrFAUtV7ZOH7TSPhF/giphy.webp?cid=790b7611xvhy1rf9isvzycrnplefgc1m1odu87dn3o5ycid7&ep=v1_gifs_search&rid=giphy.webp&ct=g" alt="sr">
+</div>
+
+<!-- Dynamic Typing Text Related to Coding -->
+<div align="center">
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+I'm+Soumya+Ranjan+Jena&color=cyan&center=true" />
+  </h3>
+</div>
+
+<h3 align="center">Aspiring Software Engineer | Passionate About Java, Python, and Web Development</h3>
+
+<!-- Another Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building
 
 
-<h1 align="center">Hi 👋, I'm Soumyaranjan Jena</h1>
+
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;Web+Developer;React+Developer;Quick+learner&color=cyan&center=true" />
 </div>
