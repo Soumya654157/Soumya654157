@@ -1,8 +1,9 @@
 <!-- Animated GIF Related to Coding -->
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0;">
+<p align="center">
   <img src="https://media3.giphy.com/media/elrFAUtV7ZOH7TSPhF/giphy.webp?cid=790b7611xvhy1rf9isvzycrnplefgc1m1odu87dn3o5ycid7&ep=v1_gifs_search&rid=giphy.webp&ct=g" alt="sr">
-</div>
+</p>
+
 
 <!-- Dynamic Typing Text Related to Coding -->
 <div align="center">
